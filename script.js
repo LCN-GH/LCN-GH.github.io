@@ -21,7 +21,7 @@ $(document).ready(function () {
             $('.mission-text').addClass('fromRight');
         } else {
             $('.camera-img').removeClass('fromLeft');
-            $('.mission-text').removelass('fromRight');
+            $('.mission-text').removeClass('fromRight');
         }
     });
 });
