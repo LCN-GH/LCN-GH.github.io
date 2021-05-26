@@ -225,8 +225,6 @@ header {
 }
 /* endOfPricing */
 
-
-
 /* Collection */
 .card-shadow {
   box-shadow: 5px 8px 20px #444444;
@@ -250,26 +248,6 @@ header {
 }
 /* endOfCollection */
 
-
-
-/* Gallery */
-.gallery-list-item {
-  color: #777777;
-  cursor: pointer;
-  user-select: none;
-}
-
-.active-item {
-  color: #70aed2;
-}
-/* endOfGallery */
-
-
-/* Testimonials */
-.testimonials {
-  background: #151f20;
-}
-/* endOfTestimonials */
 
 
 /* Contact */
