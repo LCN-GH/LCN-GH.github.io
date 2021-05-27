@@ -1,5 +1,8 @@
 
-
+html {
+  /*For smooth scrolling behavior*/
+  scroll-behavior: smooth;
+}
 
 
 

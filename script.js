@@ -27,8 +27,6 @@ $(document).ready(function () {
             $('.card-3').removeClass('moveFromRight');
         }
     });
-
-
 });
 
 
